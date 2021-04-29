@@ -1,0 +1,11 @@
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.vbprojAssemblyReference.cache
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem_so.Form1.resources
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem_so.Resources.resources
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.vbproj.GenerateResource.cache
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.vbproj.CoreCompileInputs.cache
+D:\VB2005\Demso\Dem so\Dem so\bin\Debug\Dem so.exe
+D:\VB2005\Demso\Dem so\Dem so\bin\Debug\Dem so.pdb
+D:\VB2005\Demso\Dem so\Dem so\bin\Debug\Dem so.xml
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.exe
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.xml
+D:\VB2005\Demso\Dem so\Dem so\obj\Debug\Dem so.pdb
